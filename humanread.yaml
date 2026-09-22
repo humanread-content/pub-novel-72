@@ -1,0 +1,68 @@
+version: 1
+title: 'Le jardin des histoires de Tao : Deux vantardises, une question'
+slug: translation-66-fr-b5b6d1
+summary: Un bouclier de bois, une lance de jouet rembourrée et deux grandes vantardises.
+  Une question de Tao aide Ahe à trouver des mots plus justes.
+cover_color: '#458f87'
+cover_asset: assets/70724e0f65cfe746817f4422a1a07fec5f86dcbb98fcfc93ba4a8b8ac86c747f.webp
+share_card: null
+author: Humanread Founder
+metadata:
+  age_rating: all
+  content_warnings: ''
+  language: fr
+  primary_genre: youth
+  secondary_genre: literary
+  serial_status: completed
+  tags:
+  - fable
+  - picture-book
+  - CSS-animation
+  warning_level: none
+translation:
+  authorization: self
+  original_author: Humanread Founder
+  source_content_hash: c8a37d244d527feae65190eb7c018439a679d5c8c9726b304dfeba765b419fb2
+  source_novel_id: 66
+  source_slug: novel-4a95306b-41c2e0
+  source_title: 小桃的成語小院：自相矛盾
+  source_version_id: 106
+  target_language: fr
+  translator: Humanread Founder
+chapters:
+- id: 941
+  title: Un étal sous le pêcher
+  position: 1
+  file: chapters/0001-941.html
+  format: sandbox-html-css
+  share_card: null
+- id: 942
+  title: La première grande vantardise
+  position: 2
+  file: chapters/0002-942.html
+  format: sandbox-html-css
+  share_card: null
+- id: 943
+  title: Deux phrases se rencontrent
+  position: 3
+  file: chapters/0003-943.html
+  format: sandbox-html-css
+  share_card: null
+- id: 944
+  title: Une réponse possible
+  position: 4
+  file: chapters/0004-944.html
+  format: sandbox-html-css
+  share_card: null
+- id: 945
+  title: L'autre réponse possible
+  position: 5
+  file: chapters/0005-945.html
+  format: sandbox-html-css
+  share_card: null
+- id: 946
+  title: Des mots à la bonne taille
+  position: 6
+  file: chapters/0006-946.html
+  format: sandbox-html-css
+  share_card: null
